@@ -44,3 +44,5 @@ function App() {
 }
 
 export default App;
+
+// In this case App is the parent of Products and we are passing a prop into products. The app contains the product and the product contains the props ( i.e the prop is what makes the product Dynamic)
